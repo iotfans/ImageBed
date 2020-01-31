@@ -1,2 +1,2 @@
 # imagebed
-github image bed for liguo.su
+> github image bed for PicGo.
